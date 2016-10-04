@@ -18,7 +18,6 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: white;
   outline: none;
 }
 h1,
@@ -196,6 +195,9 @@ section.success {
   section.first {
     padding-top: 75px;
   }
+}
+.signup-link{
+  color:white
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
